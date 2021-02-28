@@ -41,7 +41,7 @@ public class Controller : MonoBehaviour
     {
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition); // get mouse position in world space
 
-        if (arrow.activeSelf) // if arrow is shown (hack)
+        if (arrow.activeSelf)
         {
 
             if (Input.GetMouseButton(0)) // when mouse is held
