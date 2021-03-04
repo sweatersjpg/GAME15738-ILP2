@@ -1,0 +1,8 @@
+Link:
+  https://sweaters.itch.io/catthrow
+
+Instructions:
+  Hold the left mouse button down to charge your throw (indicated by the power bar)
+  release the left mouse button to throw your cat!
+
+  You have no control over the cat while its moving so plan your throws carfully
