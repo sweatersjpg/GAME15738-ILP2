@@ -55,7 +55,7 @@ public class Controller : MonoBehaviour
             gameOverImage.SetActive(true);
             startButton.SetActive(true);
 
-            Score.text = "SCORE: " + (int)Camera.main.transform.position.y;
+            Score.text = "SCORE: " + (int)Camera.main.transform.position.y + "m";
         }
 
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition); // get mouse position in world space
